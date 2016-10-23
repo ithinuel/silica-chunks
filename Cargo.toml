@@ -1,0 +1,6 @@
+[package]
+name = "silica-chunks"
+version = "0.1.0"
+authors = ["ithinuel <ithinuel@gmail.com>"]
+
+[dependencies]
